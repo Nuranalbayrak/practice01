@@ -1,6 +1,4 @@
-package calismaVariable01;
-
-import java.util.Scanner;
+package calisma01;
 
 public class Switchcalisma01 {
 

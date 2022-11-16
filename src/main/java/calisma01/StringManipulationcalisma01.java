@@ -1,4 +1,4 @@
-package calismaVariable01;
+package calisma01;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package calismaVariable01;
+package calisma01;
 
 public class Nestedcalisma01 {
     public static void main(String[] args) {

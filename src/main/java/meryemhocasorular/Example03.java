@@ -1,4 +1,4 @@
-package examples;
+package meryemhocasorular;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -101,6 +101,8 @@ public class Example03 {
 
         }
         System.out.println("OrtalamaninAltindakiKazancGünleri = " + OrtalamaninAltindakiKazancGünleri);
+
+
     }
     }
 

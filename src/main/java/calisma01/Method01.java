@@ -1,4 +1,4 @@
-package calismaVariable01;
+package calisma01;
 
 public class Method01 {
     //method olusturma yöntemleri.

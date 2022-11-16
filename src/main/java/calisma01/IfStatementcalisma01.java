@@ -1,6 +1,4 @@
-package calismaVariable01;
-
-import java.util.Scanner;
+package calisma01;
 
 public class IfStatementcalisma01 {
     public static void main(String[] args) {
